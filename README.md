@@ -1,1 +1,1 @@
-
+This is the final project of a Marketing Analytics course I took in the Spring of 2018 during my M.Sc. in Analytics program. Please see pdf document named "ETOTS CASE" and "ETOTS CASE II" for full details on the project. 
